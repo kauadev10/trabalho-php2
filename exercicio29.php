@@ -14,7 +14,7 @@
         25357682-2 - Eduardo Rupp da Luz
         25165088-2 - Vinicius Bastos Rodrigues
         25178065-2 - Marcos Barcelar
-        22001126-3 - Eric Ruthes
+        22001126-2 - Eric Ruthes
     Data: 08 de Outubro de 2025
     Descritivo: Dado um array de números [12, 5, 23, 18, 9, 45], imprima apenas os números maiores que 20.
 *******************************************************************************/

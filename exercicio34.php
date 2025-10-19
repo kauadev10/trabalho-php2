@@ -14,7 +14,7 @@
         25357682-2 - Eduardo Rupp da Luz
         25165088-2 - Vinicius Bastos Rodrigues
         25178065-2 - Marcos Barcelar
-        22001126-3 - Eric Ruthes
+        22001126-2 - Eric Ruthes
     Data: 08 de Outubro de 2025
     Descritivo: Elabore um procedimento verificarParImpar que receba um número e imprima se ele é "Par" ou "Ímpar"
 *******************************************************************************/
