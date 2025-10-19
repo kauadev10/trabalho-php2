@@ -15,8 +15,8 @@
         25165088-2 - Vinicius Bastos Rodrigues
         25178065-2 - Marcos Barcelar
         22001126-3 - Eric Ruthes
-    Data: 29 de Agosto de 2025
-    Descritivo: Array Multidimensional:Crie uma matriz 3x3 (array de arrays) e preencha-a com números. Imprima o elemento da segunda linha e terceira coluna
+    Data: 08 de Outubro de 2025
+    Descritivo: Crie uma matriz 3x3 (array de arrays) e preencha-a com números. Imprima o elemento da segunda linha e terceira coluna
 *******************************************************************************/
 
 $matriz = [

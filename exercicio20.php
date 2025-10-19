@@ -15,7 +15,7 @@
         25165088-2 - Vinicius Bastos Rodrigues
         25178065-2 - Marcos Barcelar
         22001126-3 - Eric Ruthes
-    Data: 29 de Agosto de 2025
+    Data: 08 de Outubro de 2025
     Descritivo: Crie um array com os 7 dias da semana e imprima-os usando um laço for
 *******************************************************************************/
 

@@ -15,7 +15,7 @@
         25165088-2 - Vinicius Bastos Rodrigues
         25178065-2 - Marcos Barcelar
         22001126-3 - Eric Ruthes
-    Data: 29 de Agosto de 2025
+    Data: 08 de Outubro de 2025
     Descritivo: Dado um array de números [12, 5, 23, 18, 9, 45], imprima apenas os números maiores que 20.
 *******************************************************************************/
 

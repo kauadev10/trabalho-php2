@@ -15,7 +15,7 @@
         25165088-2 - Vinicius Bastos Rodrigues
         25178065-2 - Marcos Barcelar
         22001126-2 - Eric Ruthes
-    Data: 22 de outubro de 2025
+    Data: 08 de Outubro de 2025
     Descritivo: Faça um programa que exiba a tabuada do 5, de 1 a 10.
 *******************************************************************************/
 

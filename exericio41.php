@@ -15,7 +15,7 @@
         25165088-2 - Vinicius Bastos Rodrigues
         25178065-2 - Marcos Barcelar
         22001126-2 - Eric Ruthes
-    Data: 22 de outubro de 2025
+    Data: 08 de Outubro de 2025
     Descritivo:  Crie uma função chamada somar que receba dois números e retorne a soma deles
  *******************************************************************************/
 
