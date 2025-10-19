@@ -16,19 +16,15 @@
         25178065-2 - Marcos Barcelar
         22001126-3 - Eric Ruthes
     Data: 29 de Agosto de 2025
-    Descritivo: Crie uma função obterPrimeiroElemento que receba um array e retorne seu primeiro elemento
+    Descritivo: Crie um programa que calcule e imprima a soma dos números de 1 a 100
  *******************************************************************************/
 
-$frutas = ['maça', 'banana', 'pera', 'goiaba'];
+$soma = 0;
 
-function obterPrimeiroElemento($frutas){
-    if (is_array($frutas) && count($frutas) > 0) {
-        return $frutas[0];
-    } else {
-        return null;
-    }
+for ($i = 1; $i <= 100; $i ++) {
+        $soma += $i; 
+  
 }
+     echo "A soma dos números de 1 a 100 é: " . $soma;
 
-echo obterPrimeiroElemento($frutas);
-
-?>
+?>          
